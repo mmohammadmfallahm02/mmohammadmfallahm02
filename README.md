@@ -1,13 +1,14 @@
-[![MasterHead](https://technobrains.io/wp-content/uploads/2021/07/flutter-Featured-Blog-Image2.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mohammad Fallah</h1>
-<h3 align="center">A mobile app developer</h3>
+[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://rishavchanda.io)
+<h1 align="center">I'm mohammad, a mobile app developer 👨‍💻 programming since 2019🚀</h1>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 💬 Ask me about **Flutter,dart,python**
+- 💬 Ask me about **Flutter, Dart and Python**
+
+- 🌱 I’m currently learning Django
 
 - 📫 How to reach me **mmohammadmfallahm02@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact:  **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
