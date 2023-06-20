@@ -5,20 +5,17 @@
 </p>
 
 <h2 align="center">📝 Latest Articles</h2>
-
 <p align="center">
   Check out my latest articles:
 </p>
-
 <p align="center">
-  <a href="https://medium.com/@yourusername/your-article-title" target="_blank">
+  <a href="https://medium.com/@mmohammadmfallahm02/your-article-title" target="_blank">
     <img src="https://img.shields.io/badge/Read on Medium-2ea44f?style=for-the-badge&logo=medium" alt="Latest Medium Article">
   </a>
-  <a href="[https://virgool.io/@yourusername](https://virgool.io/@mmohammadmfallahm02)" target="_blank">
+  <a href="https://virgool.io/@mmohammadmfallahm02" target="_blank">
     <img src="https://img.shields.io/badge/Read on Virgool-17b978?style=for-the-badge&logo=virgool&logoColor=white" alt="Latest Virgool.io Article">
   </a>
 </p>
-
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
