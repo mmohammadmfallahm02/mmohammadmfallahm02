@@ -33,16 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohammadmfallahm02&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
-<h2 align="center">📫 Get in Touch</h2>
 
-<p align="center">
-  I'm always open to new opportunities, collaborations, and discussions. Let's connect!
-</p>
-
-<p align="center">
-  📧 Email: mmohammadmfallahm02@gmail.com<br>
-  💬 Telegram: [mmohammadmfallahm02](https://t.me/mmohammadmfallahm02)
-</p>
 
 <h2 align="left">📝 My Medium latest posts</h2>
 <p>
@@ -53,6 +44,17 @@
 <p>
 <!-- VIRGOOL:START -->
 <!-- VIRGOOL:END -->
+</p>
+
+<h2 align="center">📫 Get in Touch</h2>
+
+<p align="center">
+  I'm always open to new opportunities, collaborations, and discussions. Let's connect!
+</p>
+
+<p align="center">
+  📧 Email: mmohammadmfallahm02@gmail.com<br>
+  💬 Telegram: [mmohammadmfallahm02](https://t.me/mmohammadmfallahm02)
 </p>
 
 ---
