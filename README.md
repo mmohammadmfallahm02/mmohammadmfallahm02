@@ -4,18 +4,6 @@
   Welcome to my GitHub profile. I'm a passionate Flutter developer with a love for learning and exploring new technologies. I enjoy finding creative solutions to complex problems and delivering high-quality applications.
 </p>
 
-<!-- <h2 align="center">📝 Latest Articles</h2>
-<p align="center">
-  Check out my latest articles:
-</p>
-<p align="center">
-  <a href="https://medium.com/@mmohammadmfallahm02/your-article-title" target="_blank">
-    <img src="https://img.shields.io/badge/Read on Medium-2ea44f?style=for-the-badge&logo=medium" alt="Latest Medium Article">
-  </a>
-  <a href="https://virgool.io/@mmohammadmfallahm02" target="_blank">
-    <img src="https://img.shields.io/badge/Read on Virgool-17b978?style=for-the-badge&logo=virgool&logoColor=white" alt="Latest Virgool.io Article">
-  </a>
-</p> -->
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
@@ -45,21 +33,26 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohammadmfallahm02&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
-
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
   I'm always open to new opportunities, collaborations, and discussions. Let's connect!
 </p>
-# My Medium latest posts
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-# آخرین پست های من در ویرگول
-<!-- VIRGOOL:START -->
-<!-- VIRGOOL:END -->
+
 <p align="center">
   📧 Email: mmohammadmfallahm02@gmail.com<br>
   💬 Telegram: [mmohammadmfallahm02](https://t.me/mmohammadmfallahm02)
+</p>
+
+<h2 align="left">📝 My Medium latest posts</h2>
+<p>
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+</p>
+<h2 align="right">📝 آخرین پست های من در ویرگول</h2>
+<p>
+<!-- VIRGOOL:START -->
+<!-- VIRGOOL:END -->
 </p>
 
 ---
