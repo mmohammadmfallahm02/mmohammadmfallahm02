@@ -4,7 +4,7 @@
   Welcome to my GitHub profile. I'm a passionate Flutter developer with a love for learning and exploring new technologies. I enjoy finding creative solutions to complex problems and delivering high-quality applications.
 </p>
 
-<h2 align="center">📝 Latest Articles</h2>
+<!-- <h2 align="center">📝 Latest Articles</h2>
 <p align="center">
   Check out my latest articles:
 </p>
@@ -15,7 +15,7 @@
   <a href="https://virgool.io/@mmohammadmfallahm02" target="_blank">
     <img src="https://img.shields.io/badge/Read on Virgool-17b978?style=for-the-badge&logo=virgool&logoColor=white" alt="Latest Virgool.io Article">
   </a>
-</p>
+</p> -->
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
@@ -51,7 +51,12 @@
 <p align="center">
   I'm always open to new opportunities, collaborations, and discussions. Let's connect!
 </p>
-
+# My Medium latest posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+# آخرین پست های من در ویرگول
+<!-- VIRGOOL:START -->
+<!-- VIRGOOL:END -->
 <p align="center">
   📧 Email: mmohammadmfallahm02@gmail.com<br>
   💬 Telegram: [mmohammadmfallahm02](https://t.me/mmohammadmfallahm02)
