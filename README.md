@@ -38,6 +38,7 @@
 <h2 align="left">📝 My Medium latest posts</h2>
 <p>
 <!-- MEDIUM:START -->
+- [Elevate Your Flutter UI with Stunning Glass Effects: A Step-by-Step Guide.](https://medium.com/@mmohammadmfallahm02/elevate-your-flutter-ui-with-stunning-glass-effects-a-step-by-step-guide-c831ab9c3d04?source=rss-a1dcea1b6ea7------2)
 <!-- MEDIUM:END -->
 </p>
 <h2 align="right">📝 آخرین پست های من در ویرگول</h2>
