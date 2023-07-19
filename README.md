@@ -59,4 +59,5 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mmohammadmfallahm02&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mmohammadmfallahm02&label=PROFILE+VIEWS)
+[![wakatime](https://wakatime.com/badge/user/6e5e3225-638b-45cc-8dc8-40b392094d17.svg)](https://wakatime.com/@6e5e3225-638b-45cc-8dc8-40b392094d17)
