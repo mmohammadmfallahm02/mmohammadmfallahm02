@@ -46,16 +46,6 @@
 <!-- VIRGOOL:END -->
 </p>
 
-<h2 align="center">📫 Get in Touch</h2>
-
-<p align="center">
-  I'm always open to new opportunities, collaborations, and discussions. Let's connect!
-</p>
-
-<p align="center">
-  📧 Email: mmohammadmfallahm02@gmail.com<br>
-  💬 Telegram: [mmohammadmfallahm02](https://t.me/mmohammadmfallahm02)
-</p>
 
 ---
 ![](https://komarev.com/ghpvc/?username=mmohammadmfallahm02&label=PROFILE+VIEWS)
