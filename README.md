@@ -39,18 +39,6 @@
 <!-- MEDIUM:END -->
 </p>
 
-
-<h2 align="right">📝 آخرین پست های من در ویرگول</h2>
-<p>
-<!-- VIRGOOL:START -->
-<!-- VIRGOOL:END -->
-</p>
-
-
-
-
-
-
 ---
 ![](https://komarev.com/ghpvc/?username=mmohammadmfallahm02&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/fc4b77cd-3689-464c-93de-d76ff4700a7d.svg)](https://wakatime.com/@fc4b77cd-3689-464c-93de-d76ff4700a7d)
