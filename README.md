@@ -6,9 +6,6 @@
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
-  Here are some of the technologies and tools I work with:
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
@@ -34,11 +31,11 @@
 
 <h2 align="ce">📝 My Medium latest posts</h2>
 
-<p>
+
 <!-- MEDIUM:START -->
 - [Elevate Your Flutter UI with Stunning Glass Effects: A Step-by-Step Guide.](https://medium.com/@mmohammadmfallahm02/elevate-your-flutter-ui-with-stunning-glass-effects-a-step-by-step-guide-c831ab9c3d04?source=rss-a1dcea1b6ea7------2)
 <!-- MEDIUM:END -->
-</p>
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=mmohammadmfallahm02&label=PROFILE+VIEWS)
