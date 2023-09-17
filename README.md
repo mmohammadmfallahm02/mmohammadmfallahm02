@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Mohammad!</h1>
 
 <p align="center">
-  Welcome to my GitHub profile. I'm a passionate Flutter developer with a love for learning and exploring new technologies. I enjoy finding creative solutions to complex problems and delivering high-quality applications.
+  Welcome to my GitHub profile. I'm a passionate Flutter developer with a love for learning and exploring new technologies. I enjoy finding creative solutions to complex problems and delivering high-quality applications. 
 </p>
 
 <h2 align="center">🚀 Tech Stack</h2>
