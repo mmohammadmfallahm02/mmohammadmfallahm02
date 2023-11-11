@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmohammadmfallahm02&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-<h2>My Open-Source Projects 📖</h2>
+<!--<h2>My Open-Source Projects 📖</h2>
 
 <!--<p>
   <a href="">
@@ -35,5 +35,4 @@
 <!-- MEDIUM:END -->
 
 ---
-![](https://komarev.com/ghpvc/?username=mmohammadmfallahm02&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/fc4b77cd-3689-464c-93de-d76ff4700a7d.svg)](https://wakatime.com/@fc4b77cd-3689-464c-93de-d76ff4700a7d)
