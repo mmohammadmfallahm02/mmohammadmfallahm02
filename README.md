@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Mohammad!</h1>
+# Hey there, I'm Mohammad.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
 <p>
   Welcome to my GitHub profile. I'm a passionate Flutter developer with a love for learning and exploring new technologies. I enjoy finding creative solutions to complex problems and delivering high-quality applications. 
